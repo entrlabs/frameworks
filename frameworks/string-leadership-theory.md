@@ -2,13 +2,13 @@
 
 **A developmental map from self-awareness to legacy.**
 
-String Leadership Theory is a leadership development framework that treats leadership maturity as a set of connected dimensions.
+String Leadership Theory is Joseph E. Iesue's leadership development framework for understanding maturity across connected dimensions.
 
-The image is a set of strings: each string can be strengthened, tuned, neglected, or over-tightened. Leadership is not one trait. It is a pattern of development across multiple dimensions.
+The image is a set of strings. Each string can be strengthened, tuned, neglected, or over-tightened.
 
-## Ten-Dimension Direction
+Leadership is not one trait. It is a pattern of development.
 
-This public edition uses the following provisional map:
+## Ten Dimensions
 
 1. Self-Awareness
 2. Emotional Regulation
@@ -23,26 +23,19 @@ This public edition uses the following provisional map:
 
 ## Why It Matters
 
-Many leadership models flatten development into style, personality, or rank.
+Many leadership models flatten development into style, rank, personality, or confidence.
 
-String Leadership Theory asks:
+String Leadership Theory asks which dimensions are strong, which are underdeveloped, which are overused, and which must mature next.
 
-- Which dimension is strong?
-- Which dimension is underdeveloped?
-- Which dimension is overused?
-- Which dimension must mature next?
-
-## Service Leadership Connection
-
-String Leadership Theory provides the developmental map inside Service Leadership.
+## Connection To Service Leadership
 
 Service Leadership asks what contribution is needed.
 
 String Leadership Theory asks what leadership capacity must mature to make that contribution possible.
 
-## Starter Reflection
+Together, they connect contribution with development.
 
-Choose one dimension:
+## Starter Reflection
 
 ```text
 The dimension I most need to strengthen is:
