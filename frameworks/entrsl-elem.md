@@ -2,9 +2,9 @@
 
 **Entrepreneurial Learning Engagement Model.**
 
-EntrSL is the research stream within EntrLabs focused on entrepreneurial service-learning and learning culture.
+EntrSL is the EntrLabs research stream focused on entrepreneurial service-learning, learning culture, and student engagement.
 
-ELEM, the Entrepreneurial Learning Engagement Model, explains how student engagement is shaped by the interaction between individual motivation and institutional learning culture.
+ELEM, the Entrepreneurial Learning Engagement Model, explains engagement as the interaction between individual motivation and institutional learning culture.
 
 ## Core Equation
 
@@ -16,7 +16,7 @@ Motivation x Learning Culture = Engagement
 
 Engagement is not raw motivation.
 
-Engagement is a designed outcome produced or constrained by how institutions align motivation, culture, and opportunity around service and growth.
+Engagement is shaped by the relationship between the learner's motivational profile and the culture, signals, opportunities, and expectations around them.
 
 ## Research Focus
 
@@ -31,25 +31,13 @@ ELEM studies:
 
 ## What ELEM Challenges
 
-ELEM argues that engagement is not only a student trait.
+ELEM challenges the idea that engagement is only a student trait.
 
-It is shaped by:
-
-- The learner's motivational profile
-- The culture of the institution
-- Peer and team conditions
-- Leadership-level signals
-- The design of the learning opportunity
+It treats engagement as a designed outcome that can be supported or suppressed by institutional culture.
 
 ## Practical Use
 
-Educators and institutions can use ELEM to ask:
-
-- Which students are engaging?
-- Which students are withdrawing?
-- What kind of motivation is being activated?
-- Is the learning culture supporting or suppressing engagement?
-- How can service-learning be designed for broader participation?
+Educators and institutions can use ELEM to examine which students are engaging, which students are withdrawing, what forms of motivation are being activated, and whether the learning culture supports or suppresses participation.
 
 ## Research Arc
 
