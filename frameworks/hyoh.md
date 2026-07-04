@@ -2,24 +2,17 @@
 
 **Hike Your Own Hike.**
 
-HYOH is the career agency framework connected to EntrLabs and ENTR.
+HYOH is the career agency and self-leadership framework connected to Joseph E. Iesue, EntrLabs, and ENTR.
 
-It helps individuals build career clarity, self-leadership, and practical growth systems.
+It helps people build direction, ownership, and momentum without outsourcing their path to comparison, status, or default timelines.
 
 ## Core Claim
 
 You become the CEO of your own career by learning to name your direction, own your agency, and take the next visible step.
 
-## What HYOH Solves
+## What HYOH Responds To
 
-HYOH responds to:
-
-- Career confusion
-- Comparison pressure
-- Over-identification with external timelines
-- Passive job searching
-- Lack of personal operating rhythm
-- Weak connection between values and action
+HYOH responds to career confusion, comparison pressure, passive job searching, over-identification with external timelines, weak operating rhythms, and the gap between values and action.
 
 ## Core Questions
 
@@ -41,4 +34,4 @@ HYOH responds to:
 
 HYOH is Service Leadership made personal.
 
-It asks individuals to connect self-leadership with contribution, not just ambition.
+It connects self-leadership with contribution, not just ambition.
