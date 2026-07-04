@@ -1,14 +1,16 @@
-# Service Leadership Starter Kit
+# EntrLabs Starter Kit
 
 The Starter Kit is the simplest public entrance into the EntrLabs system.
+
+It brings the core frameworks into one place for orientation, reflection, and first application.
 
 ## Contents
 
 1. Service Leadership doctrine
-2. String Leadership 10-dimension map
+2. String Leadership Theory 10-dimension map
 3. EntrSL / ELEM research summary
-4. HYOH career clarity worksheet
-5. Culture Snapshot checklist
+4. HYOH career agency frame
+5. AIRe / Culture Snapshot research frame
 
 ## One-Page Doctrine
 
@@ -18,15 +20,15 @@ Strength Through Service
 People grow best when their development is connected to contribution.
 ```
 
-## 10-Minute Use
+## 10-Minute Orientation
 
-Choose one:
+Choose the entry point that matches the work:
 
-- Personal growth: use HYOH.
-- Leadership development: use String Leadership Theory.
-- Team culture: use Culture Snapshot.
-- Education and research: use EntrSL / ELEM.
-- General leadership philosophy: use Service Leadership.
+- Leadership doctrine: Service Leadership
+- Leadership development: String Leadership Theory
+- Education and research: EntrSL / ELEM
+- Career agency: HYOH
+- Team culture: AIRe / Culture Snapshot
 
 ## Starter Reflection
 
@@ -34,6 +36,8 @@ Choose one:
 The contribution I/we need to make:
 
 The capability that must grow:
+
+The responsibility that must become clearer:
 
 The system that would support it:
 
