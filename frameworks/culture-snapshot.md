@@ -1,47 +1,63 @@
-# Culture Snapshot
+# AIRe / Culture Snapshot
 
-**A lightweight diagnostic for recognition, responsibility, and learning culture.**
+**A research note on recognition, appreciation, and organizational culture.**
 
-The Culture Snapshot is an EntrLabs and EntrWork tool for examining whether a team's culture reinforces the contribution it claims to value.
+AIRe is a framework created by Vantage Circle.
 
-## Core Question
+Vantage Circle should receive full credit for the AIRe framework and its original development.
 
-What does this culture make easier to repeat?
+EntrLabs is currently doing research utilizing this framework as part of its broader work on recognition, learning culture, leadership, and organizational development.
 
-## Snapshot Areas
+## Framework Credit
 
-### Appreciation
+AIRe stands for:
 
-Are meaningful contributions seen and named?
+- Appreciation
+- Incentivization
+- Reinforcement
+- Emotional Connect
 
-### Incentives
+This framework is credited to Vantage Circle.
 
-Are rewards aligned with the behavior the organization claims to want?
+EntrLabs does not present AIRe as original EntrLabs intellectual property.
 
-### Reinforcement
+## EntrLabs Research Interest
 
-Are the right behaviors repeated, practiced, and made visible?
+EntrLabs is interested in how recognition systems shape culture.
 
-### Emotional Connection
+In particular, the research interest is how appreciation, incentives, reinforcement, and emotional connection influence:
 
-Do people feel connected to the mission, team, and meaning of the work?
+- Employee engagement
+- Team culture
+- Leadership behavior
+- Retention
+- Learning culture
+- Meaningful contribution
 
-## Attribution Note
+## Connection To Service Leadership
 
-The AIRe framework is credited publicly on the EntrLabs site as created by Vantage Circle. EntrLabs should preserve that attribution and use this Culture Snapshot as a practical implementation and discussion tool rather than presenting AIRe itself as original EntrLabs IP.
+Service Leadership asks whether a culture makes meaningful contribution easier to repeat.
 
-## Starter Questions
+AIRe is useful to EntrLabs research because it provides a clear recognition-centered framework for examining how organizations notice, reinforce, and emotionally connect people to valued behavior.
+
+## Research Questions
 
 ```text
-What contribution is currently most visible?
+What contributions are currently appreciated?
 
-What contribution is invisible but important?
+What behaviors are incentivized?
 
-What behavior gets rewarded?
+What actions are reinforced over time?
 
-What behavior gets ignored?
+How emotionally connected are people to the work, the team, and the mission?
 
-Where is responsibility unclear?
+Where does recognition strengthen culture?
 
-What signal should leadership repeat this month?
+Where does recognition fail to match the contribution the organization claims to value?
 ```
+
+## Attribution
+
+AIRe was created by Vantage Circle.
+
+EntrLabs is currently doing research utilizing this framework.
